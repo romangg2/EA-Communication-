@@ -78,6 +78,9 @@ _____________________________
 Communication: <b>Slack</b> 
 _____________________________
 Communication: <b>Slack</b> 
+Christine doesn’t accept leader’s cal invites. Alex doesn’t accept calendar invites. Assume he will attend until Christine indicates otherwise. Request a HOLD on the calendar if needed & provide necessary details for the HOLD.
+_____________________________
+Communication: <b>Slack</b>
 Christine doesn’t accept leader’s cal invites. Request a HOLD on the calendar if needed & provide necessary details for the HOLD.
 _____________________________
 Communication: <b>Email </b>
